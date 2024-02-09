@@ -6,9 +6,6 @@ Castle is a 2D RPG with two different playable characters developed using the Un
 
 Skills acquired through this project - System Design, OOPs concepts, Foundations of a Stat-based game, Foundations of Saving game states, C# Programming.
 
-For more details, visit my website linked below
-
-Portfolio - https://visheshjainvj8.wixstudio.io/portfolio-game
 
 
 
